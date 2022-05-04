@@ -1,2 +1,0 @@
-# Clinic
-clinic management
